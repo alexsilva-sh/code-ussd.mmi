@@ -1,17 +1,19 @@
-# code-ussd.mmi
-Códigos e atalhos secretos do celular (vivo, claro, oi, tim)
+# Códigos e atalhos secretos do celular (vivo, claro, oi, tim)
 
-Popularmente chamados de códigos secretos USSD e MMI, são apenas atalhos para funções especiais do celular e de serviços rápidos das operadoras, esses códigos engraçados são digitados no discador do celular, iniciam com o símbolo asterisco (*) e terminam com o simbolo cerquilha (#). Os atalhos são oficialmente chamadoS USSD: Códigos de Servições Complementares não Estruturados, e MMI: Interface Homem Maquina. Obs. alguns códigos não funcionam em todos os modelos de celulares.
+Este conteúdo revela códigos secretos para usar em celular com operadoras VIVO, CLARO, OI e TIM.
 
-Os atalhos fornecem serviços rápidos, auto-atendimento, sem a necessidade de fazer uma ligação para a central e sem uso da internet ou aplicativos de terceiros, indo direto ao ponto sem propaganda e sem informações complementares. Como por exemplo: pode verificar seu saldo de créditos ou descobrir o número de telefone do chip sem precisar ligar para a central de atendimento. Estes não são padronizados, assim cada operadora pode fazer da forma que preferir. Se digitar a sequência errada, o sistema exibirá a mensagem "Código MMI inválido". Abaixo veja uma lista com vários códigos...
+## Característica
+- Popularmente chamados de códigos secretos USSD e MMI, são apenas atalhos para funções especiais do celular e de serviços rápidos das operadoras, esses códigos são digitados no discador do celular, iniciam com o símbolo asterisco (*) e terminam com o simbolo cerquilha (#). Os atalhos são oficialmente chamadoS USSD: Códigos de Servições Complementares não Estruturados, e MMI: Interface Homem Maquina.
+Obs. alguns códigos não funcionam em todos os modelos de celulares.
 
-Para limpeza do celular
-*#9900# ou *#2663# são dois códigos que ajudam na limpeza do aparelho, melhora a velocidade.
+- Os atalhos fornecem serviços de auto-atendimento, sem a necessidade de fazer uma ligação para a central e sem uso da internet ou aplicativos de terceiros, indo direto ao ponto.
+- Pode verificar seu saldo de créditos ou descobrir o número de telefone do chip sem precisar ligar para a central de atendimento.
+- Estes comandos não são padronizados, cada operadora pode fazer da forma que preferir.
+- Se digitar a sequência errada, o sistema exibirá a mensagem "Código MMI inválido".
 
-Códigos MMI da operadora Vivo
-#21# ou ##002# Digite no app de ligação para desativar o encaminhamento das ligações/mensagens ou o restreamento de tudo. O correto é que sejam encaminhamento para à caixa postal da operadora.
-
-*#21# ou *#61# verifica se as ligações são rastreadas e encaminhados para outra pessoa. O correto é que seja desviado para à caixa postal, quando o celular estiver fora de área. As vezes esse serviço é usado como "grampo caseiro".
+## Códigos MMI da operadora Vivo
+- **#21# ou ##002#**: Digite no app de ligação para desativar o encaminhamento das ligações/mensagens ou o restreamento de tudo. O correto é que sejam encaminhamento para à caixa postal da operadora.
+- ***#21# ou *#61#**: verifica se as ligações são rastreadas e encaminhados para outra pessoa. O correto é que seja desviado para à caixa postal, quando o celular estiver fora de área. As vezes esse serviço é usado como "grampo caseiro".
 
 *62*NÚMERO DE CONFIANÇA# ativa o desvio das ligações para outro número quando seu celuar estiver fora da área
 *67*NÚMERO DE CONFIANÇA# ativa o desvio quando seu número estiver ocupado
